@@ -9,11 +9,11 @@ Iván Blanco-Chacón, Alberto Pedrouzo-Ulloa, Rahinatou Yuh Njah, Beatriz Barber
 Please use the following BibTex entry to cite our work:
 
 @misc{BPNL23,
- title={Fast polynomial arithmetic in homomorphic encryption with cyclo-multiquadratic fields}, 
- author={Iv\'{a}n Blanco-Chac\'{o}n and Alberto Pedrouzo-Ulloa and Rahinatou Yuh Njah and Beatriz Barbero-Lucas},
- year={2023},
- eprint={2304.04619},
- archivePrefix={arXiv}
+    title        = {Fast polynomial arithmetic in homomorphic encryption with cyclo-multiquadratic fields},
+    author       = {Iv\'{a}n Blanco-Chac\'{o}n and Alberto Pedrouzo-Ulloa and Rahinatou Yuh Njah and Beatriz Barbero-Lucas},
+    url          = {https://arxiv.org/abs/2304.04619},
+    howpublished = {arXiv 2304.04619},
+    year         = {2023}
 }
 
 ## Contact
