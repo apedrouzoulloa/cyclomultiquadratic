@@ -2,7 +2,7 @@
 
 This repository contains the code required to generate the figures included in the work:
 
-Iván Blanco-Chacón, Alberto Pedrouzo-Ulloa, Rahinatou Yuh Njah, Beatriz Barbero-Lucas. "Fast Polynomial Arithmetic in Homomorphic Encryption with Cyclo-Multiquadratic Fields," arXiv 2304.04619, 2023.
+Iván Blanco-Chacón, Alberto Pedrouzo-Ulloa, Rahinatou Yuh Njah Nchiwo, Beatriz Barbero-Lucas. "Fast Polynomial Arithmetic in Homomorphic Encryption with Cyclo-Multiquadratic Fields," arXiv 2304.04619, 2023.
 
 ## Citation
 
